@@ -1,0 +1,17 @@
+Marian,Ferkovsky,M,3,16,M,1,F,2,SJ,1
+Jakub,Petrovic,M,2,17,TV,1,F,1,BIO,3,CHE,1
+Anna,Jurij,Z,1,16,DEJ,1,M,2,INF,1
+Jana,Ostrovicka,Z,4,18,M,1,F,2,SJ,1
+Filip,Juraj,M,1,15,ANJ,1,F,3,M,1,BIO,1
+Erik,Maltovic,M,2,16,M,1,F,3,SJ,1
+Milada,Jupiterska,Z,2,17,OBN,1,RUJ,2,SJ,1
+Milos,Junas,M,4,17,SJ,1,F,2,
+Emilia,Fejedelemova,Z,3,17,DEJ,1,BIO,2,SJ,1
+Miroslav,Fufuk,M,3,18,F,1,SJ,4,CHE,1
+Benedikta,Kuchynska,Z,1,16,M,3,NEJ,1,F,1,CHE,2
+Ferdinant,Kozny,M,2,18,M,1,F,2
+Adam,Baron,M,4,17,INF,1,DEJ,2,BIO,1
+Jozefina,Julovska,Z,1,15,M,1,NEJ,2
+Milan,Emil,M,3,17,RUJ,1,F,2,ANJ,2
+Mike,Geist,M,3,17,M,4
+Majo,Pajo,M,3,18,M,2
